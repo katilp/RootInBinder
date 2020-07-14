@@ -20,4 +20,4 @@ The notebooks shows:
 The example file:
    - the output.root is 10000 evts/2.7 MB from AOD2NanoAODOutreachTool
    - runtime as [a github workflow](https://github.com/katilp/AOD2NanoAODOutreachTool/actions/runs/139672160) (including container build) was 15 mins without condition data access
-   - time that locally (with a previously downloaded container)
+   - local runtime of the same order (with a previously downloaded container)
