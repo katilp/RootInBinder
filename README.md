@@ -4,7 +4,9 @@ Testing using root in binder for the CMS OD workshop
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katilp/RootInBinder/master)
 
 Contains an example output file.
-A different output file can be uploaded to the mybinder workspace.
+A different output file can be uploaded to the mybinder workspace by clicking on the "Upload" button as shown in this figure
+
+![File view](images/binder-add-file.jpg?raw=true "Title")
 
 The first start of the notebook can be slow because of the build, but should be faster when a build exists.
 
