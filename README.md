@@ -1,5 +1,5 @@
 # RootInBinder
-Testing using root in binder for the CMS OD workshop
+Basic example of using root in binder for the CMS OD workshop, can be run without local root installation and in case of problems with X11 forwarding.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katilp/RootInBinder/master)
 
@@ -12,8 +12,8 @@ The first start of the notebook can be slow because of the build, but should be 
 
 The notebooks shows:
 - how to open a file from a portal or a local file
-- how to display some contents of the file
-- how to see the variable names in the file
+- how to display contents of the file
+- how to see the variable names 
 - how to do some basic plotting
 - how to add some basic cuts
 
