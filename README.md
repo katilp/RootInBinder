@@ -6,7 +6,7 @@ Testing using root in binder for the CMS OD workshop
 Contains an example output file.
 A different output file can be uploaded to the mybinder workspace by clicking on the "Upload" button as shown in this figure
 
-![File view](images/binder-add-file.jpg?raw=true "Title")
+![File view](images/binder-add-file.png?raw=true "Adding files")
 
 The first start of the notebook can be slow because of the build, but should be faster when a build exists.
 
